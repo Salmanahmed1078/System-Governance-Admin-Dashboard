@@ -3,7 +3,7 @@
 ## Module Summary
 
 - **Module:** `module9` (React + Vite frontend, Node/Express backend, Postgres)
-- **Core DB schema reference:** `SPM_Centralized_Db.sql` (not modified by Module 9)
+- **Core DB schema reference:** `module9/SPM_Centralized_Db.sql` (copy of centralized schema; not modified by Module 9)
 - **Module 9 data population file:** `module9/seed.sql`
 
 ## Environment
