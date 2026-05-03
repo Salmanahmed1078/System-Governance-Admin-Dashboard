@@ -1,0 +1,8 @@
+# Used if build context is ever run from module9 root
+node_modules
+**/node_modules/
+dist
+**/dist/
+.env
+.env.*
+.git
